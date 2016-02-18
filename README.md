@@ -87,11 +87,12 @@ Please visit: https://github.com/dlt-rilmta/huwn.rdf
 
 ##APIs
 - Pyhton 3 API: https://github.com/ppke-nlpg/pywnxml
-- C++: coming soon
+- C++ API: https://github.com/mmihaltz/libWNXML
 
-##Command-line Tool
+##Command-line Tools
 
-You can use [wnxmlconsole.py](https://github.com/ppke-nlpg/pywnxml) to execute all kinds of queries using simple text commmands on the XML database.
+- You can use [wnxmlconsole.py](https://github.com/ppke-nlpg/pywnxml) to execute all kinds of queries using simple text commmands on the XML database.
+- [libWNXML](https://github.com/mmihaltz/libWNXML) includes a **Windows** binary executable of the same console application.
 
 ##License
 
